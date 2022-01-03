@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50328438758",
+    "project_id": "test-push-notification-e8bbd",
+    "storage_bucket": "test-push-notification-e8bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50328438758:android:236b94c95f7c06f5c83827",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50328438758-20db9irrmgsevjits1si8g3tg7emjgsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.eggtimernotifications",
+            "certificate_hash": "9f7a993524af96c2cab15c04d4cd6c89c43b5558"
+          }
+        },
+        {
+          "client_id": "50328438758-7inro178sadrrafc80028i2q8ajjfsli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCst0e6DlwkFkAuBAkdjAroIuHGlb_hy7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50328438758-7inro178sadrrafc80028i2q8ajjfsli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
